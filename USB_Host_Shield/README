@@ -2,3 +2,4 @@ This is a library for MAX3421E-based USB Host Shield for Arduino -> http://www.c
 
 More information can be found at http://www.circuitsathome.com
 
+Modified to work with Google ADK
